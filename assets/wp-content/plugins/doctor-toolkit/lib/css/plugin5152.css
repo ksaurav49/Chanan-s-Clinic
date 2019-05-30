@@ -1,0 +1,13 @@
+.map {
+	position: relative;
+	margin-top: 15px;
+}
+.map-canvas {
+	border-radius: 35px;
+    height: 265px;
+    width: 100%;
+}
+.map-section-two .map-canvas-contact-1 {
+	height: 658px;
+    margin-bottom: 50px;
+}
